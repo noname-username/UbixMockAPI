@@ -6,9 +6,19 @@
       "timestamp": 1674919051,
       "avatar": "",
       "title": "Top DAG platforms",
-      "photo": "https://ubix.network/blog_images/banner1.jpg",
+      "photo": "https://ubix.network/blog_images/topdag1.png",
       "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. Many mistakenly believe that DAG is a type of blockchain or a kind of new consensus. In fact, both blockchains and DAGs are different solutions of distributed ledger technology. They can be called close relatives who do their tasks in different ways. At its core, DAG is a registry without blocks.",
-      "body": "<h4>Introduction of Testnet Program</h4><br/><p>Gitshock Finance recently deployed a new EVM chain called Gitshock Chain Testing Network or Gitshock Buitenzorg Chain. The aim for creating this blockchain network is to test the capability and user experiences for preparing the main network, called Gitshock Chain, a working, fully-operational EVM blockchain, as part of Gitshock’s Dual Proof of Stake Chain framework.<br/>Gitshock Labs Team also is recently publish a task for blockchain enthusiasts to transact on the test-network as much as possible before the we publish the registration form.<br/>Today the total transactions on Gitshock Testnet Buitenzorg Chain is more than 3.8 Million transactions and will be adding as more users transact on it. Do remember that the test networks is prepared for incentivized testnet tasks with several series. The details you can check on scan.gitshock.com</p><br/><h4>Roadmaps of Testnet Program</h4><br/>"
+      "body": ""
+    },
+    {
+      "id": "ubx-use-cases",
+      "author": "Max Gerasimenko",
+      "timestamp": 1674909231,
+      "avatar": "",
+      "title": "Reasons to buy UBX coin",
+      "photo": "https://ubix.network/blog_images/ubx1.png",
+      "descr": "UBX is the native coin of the UBIX platform. A native coin is a digital asset that is part of a blockchain or DAG platform, and is inextricably linked to it.",
+      "body": ""
     }
   ]
 }
