@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "id": "top-dag-platforms",
-      "author": "Yana Korobeynikova",
-      "timestamp": 1674919051,
-      "avatar": "",
-      "title": "Top DAG platforms",
-      "photo": "https://ubix.network/blog_images/topdag1.png",
-      "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. Many mistakenly believe that DAG is a type of blockchain or a kind of new consensus.",
-      "body": ""
-    },
-    {
       "id": "ubx-use-cases",
       "author": "Max Gerasimenko",
       "timestamp": 1674909231,
@@ -18,6 +8,16 @@
       "title": "Reasons to buy UBX coin",
       "photo": "https://ubix.network/blog_images/ubx1.png",
       "descr": "UBX is the native coin of the UBIX platform. A native coin is a digital asset that is part of a blockchain or DAG platform, and is inextricably linked to it.",
+      "body": ""
+    },
+    {
+      "id": "top-dag-platforms",
+      "author": "Yana Korobeynikova",
+      "timestamp": 1674919051,
+      "avatar": "",
+      "title": "Top DAG platforms",
+      "photo": "https://ubix.network/blog_images/topdag1.png",
+      "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. Many mistakenly believe that DAG is a type of blockchain or a kind of new consensus.",
       "body": ""
     }
   ]
