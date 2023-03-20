@@ -29,6 +29,16 @@
       "photo": "https://ubix.network/blog_images/ubixdag1.jpg",
       "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. At its core, DAG is a registry without blocks, while UBIX is much more than that.",
       "body": ""
+    },
+    {
+      "id": "ubix-worldwide-regulation",
+      "author": "Max Gerasimenko",
+      "timestamp": 1678809245,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UBIX's worldwide regulation",
+      "photo": "https://ubix.network/blog_images/ubixdag1.jpg",
+      "descr": "UBIX has always been an active advocate of all-encompassing regulation of distributed ledger technology. From inception, our conviction was that clear rules would not hamper the adoption of the technology but...",
+      "body": ""
     }
   ]
 }
