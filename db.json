@@ -33,11 +33,41 @@
     {
       "id": "ubix-worldwide-regulation",
       "author": "Max Gerasimenko",
-      "timestamp": 1678809245,
+      "timestamp": 1679299278,
       "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
       "title": "UBIX's worldwide regulation",
       "photo": "https://ubix.network/blog_images/ubixregulation1.jpg",
       "descr": "UBIX has always been an active advocate of all-encompassing regulation of distributed ledger technology. From inception, our conviction was that clear rules would not hamper the adoption of the technology but...",
+      "body": ""
+    },
+    {
+      "id": "bear-market-and-ubix",
+      "author": "Max Gerasimenko",
+      "timestamp": 1679650426,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "Bear market and UBIX",
+      "photo": "https://ubix.network/blog_images/bearmarketubix1.jpg",
+      "descr": "There is no need for industry experts to forecast that the crypto market will remain subdued throughout 2023.",
+      "body": ""
+    },
+    {
+      "id": "ubx-vs-btc",
+      "author": "Max Gerasimenko",
+      "timestamp": 1679909626,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UBX vs BTC",
+      "photo": "https://ubix.network/blog_images/ubxvsbtc1.jpg",
+      "descr": "In today’s article we will talk about two popular coins: BTC - the first crypto by both, establishment and market cap, and UBX - the coin of UBIX Network, a next-gen hybrid DAG offering dApps with high utility value.",
+      "body": ""
+    },
+    {
+      "id": "ubx-vs-eth",
+      "author": "Max Gerasimenko",
+      "timestamp": 1679996026,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UBX vs ETH",
+      "photo": "https://ubix.network/blog_images/ubxvseth1.jpg",
+      "descr": "In today’s article we will continue our series of analyses by comparing UBX with the most popular altcoin (Ethereum).",
       "body": ""
     }
   ]
