@@ -99,6 +99,16 @@
       "photo": "https://ubix.network/blog_images/ubix20231.jpg",
       "descr": "The start of the year has been very productive for UBIX. Several key objectives planned for the entire year have already been achieved.",
       "body": ""
+    },
+    {
+      "id": "ubix-is-integrating-chatgpt",
+      "author": "Max Gerasimenko",
+      "timestamp": 1681136518,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UBIX is integrating ChatGPT",
+      "photo": "https://ubix.network/blog_images/ubixchatgpt1.jpg",
+      "descr": "UBIX, as one of the most innovative decentralized platforms, is probably the first DLT to benefit from ChatGPT possibilities.",
+      "body": ""
     }
   ]
 }
