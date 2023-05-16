@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "ubx-vs-iota",
+      "author": "Max Gerasimenko",
+      "timestamp": 1684248467,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UBX vs IOTA: price dynamics ",
+      "photo": "https://ubix.network/blog_images/ubxvsiota1.jpg",
+      "descr": "The cryptocurrency market, after a prolonged bear market, is starting to gradually recover this year.",
+      "body": ""
+    },
+    {
       "id": "how-to-invest-in-crypto",
       "author": "Max Gerasimenko",
       "timestamp": 1683565873,
