@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "who-should-not-invest-in-crypto",
+      "author": "Max Gerasimenko",
+      "timestamp": 1684674832,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "Who should not invest in cryptocurrencies?",
+      "photo": "https://ubix.network/blog_images/whoshouldnotinvest1.jpg",
+      "descr": "As we have argued in our previous article, there is no such thing as risk-free investment. All asset classes are prone to different sorts of risks.",
+      "body": ""
+    },
+    {
       "id": "ubx-vs-iota",
       "author": "Max Gerasimenko",
       "timestamp": 1684248467,
