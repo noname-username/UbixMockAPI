@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "diversification",
+      "author": "Max Gerasimenko",
+      "timestamp": 1685379744,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "Diversification",
+      "photo": "https://ubix.network/blog_images/diversification1.jpg",
+      "descr": "As we have argued in the last article, all investments are prone to risks. This is true even for bank deposits (the most conservative investment).",
+      "body": ""
+    },
+    {
       "id": "who-should-not-invest-in-crypto",
       "author": "Max Gerasimenko",
       "timestamp": 1684674832,
