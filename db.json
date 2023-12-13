@@ -189,6 +189,36 @@
       "photo": "https://ubix.network/blog_images/ubx1.png",
       "descr": "UBX is the native coin of the UBIX platform. A native coin is a digital asset that is part of a blockchain or DAG platform, and is inextricably linked to it.",
       "body": ""
+    },
+    {
+      "id": "silent-notary-overview-and-the-way-forward",
+      "author": "Max Gerasimenko",
+      "timestamp": 1702471715,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "Silent Notary: overview and the way forward",
+      "photo": "https://ubix.network/blog_images/sn1.jpg",
+      "descr": "In the 15 years since the launch of Bitcoin, blockchain technology has offered more than just transactional value.",
+      "body": ""
+    },
+    {
+      "id": "ubix-exchange-free-listings",
+      "author": "Max Gerasimenko",
+      "timestamp": 1702471715,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UBIX.Exchange Unleashes the Power of Free Listings for Early Crypto Projects",
+      "photo": "https://ubix.network/blog_images/exchange1.jpg",
+      "descr": "With the implementation of Directed Acyclic Graph (DAG) technology, UBIX.Exchange has distinguished itself as a pioneer in the rapidly developing market of cryptocurrency exchanges.",
+      "body": ""
+    },
+    {
+      "id": "ubistake-passive-income",
+      "author": "Max Gerasimenko",
+      "timestamp": 1702471715,
+      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
+      "title": "UbiStake - earn passive income on a daily basis",
+      "photo": "https://ubix.network/blog_images/ubistake1.jpg",
+      "descr": "The concept of staking provides a particularly attractive avenue for passive income. Staking pays users a percentage of their staked tokens, providing a more dynamic and potentially lucrative return on investment than standard savings accounts.",
+      "body": ""
     }
   ]
 }
