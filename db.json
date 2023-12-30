@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "global-trends-2030",
+      "author": "Max Gerasimenko",
+      "timestamp": 1703946469,
+      "title": "Global Trends 2030: UBIX futuristic research",
+      "photo": "https://ubix.network/blog_images/globaltrends1.jpg",
+      "descr": "The year 2030 marks the beginning of a new age where revolutionary technological advancements and shifting social and economic paradigms will transform our daily lives."
+    },
+    {
       "id": "silent-notary-overview-and-the-way-forward",
       "author": "Max Gerasimenko",
       "timestamp": 1702471715,
