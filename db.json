@@ -2,7 +2,6 @@
   "posts": [
     {
       "id": "ubix-network-joins-bingx",
-      "author": "NewsBTC",
       "timestamp": 1740077456,
       "title": "UBIX Network Joins BingX",
       "photo": "https://ubix.network/blog_images/joinsbingx1.webp",
@@ -10,7 +9,6 @@
     },
     {
       "id": "revolutionary-dag-and-blockchain-hybrid-operating-nonstop",
-      "author": "NewsBTC",
       "timestamp": 1728627068,
       "title": "A Revolutionary DAG and Blockchain Hybrid Operating Nonstop for Several Years",
       "photo": "https://ubix.network/blog_images/revolutionarydag1.webp",
@@ -18,7 +16,6 @@
     },
     {
       "id": "global-trends-2030",
-      "author": "Max Gerasimenko",
       "timestamp": 1703946469,
       "title": "Global Trends 2030: UBIX futuristic research",
       "photo": "https://ubix.network/blog_images/globaltrends1.jpg",
@@ -26,7 +23,6 @@
     },
     {
       "id": "silent-notary-overview-and-the-way-forward",
-      "author": "Max Gerasimenko",
       "timestamp": 1702471715,
       "title": "Silent Notary: overview and the way forward",
       "photo": "https://ubix.network/blog_images/sn1.jpg",
@@ -34,7 +30,6 @@
     },
     {
       "id": "ubix-exchange-free-listings",
-      "author": "Max Gerasimenko",
       "timestamp": 1702471715,
       "title": "UBIX.Exchange Unleashes the Power of Free Listings for Early Crypto Projects",
       "photo": "https://ubix.network/blog_images/exchange1.jpg",
@@ -42,7 +37,6 @@
     },
     {
       "id": "ubistake-passive-income",
-      "author": "Max Gerasimenko",
       "timestamp": 1702471715,
       "title": "UbiStake - earn passive income on a daily basis",
       "photo": "https://ubix.network/blog_images/ubistake1.jpg",
@@ -50,16 +44,13 @@
     },
     {
       "id": "how-to-create-an-ubikiri-wallet",
-      "author": "Max Gerasimenko",
       "timestamp": 1685556057,
-      "avatar": "https://ubix.network/redesigntest/static/media/gerasimenko.4043142a7b554d672918.webp",
       "title": "How to create an Übikiri wallet",
       "photo": "https://ubix.network/blog_images/howtocreateawallet1.jpg",
       "descr": "Currently, Übikiri is the only wallet on the UBIX Ecosystem. However, in next to no time, a lightweight wallet enabling transfers via Social Media nicknames is coming."
     },
     {
       "id": "diversification",
-      "author": "Max Gerasimenko",
       "timestamp": 1685379744,
       "title": "Diversification",
       "photo": "https://ubix.network/blog_images/diversification1.jpg",
@@ -67,7 +58,6 @@
     },
     {
       "id": "who-should-not-invest-in-crypto",
-      "author": "Max Gerasimenko",
       "timestamp": 1684674832,
       "title": "Who should not invest in cryptocurrencies?",
       "photo": "https://ubix.network/blog_images/whoshouldnotinvest1.jpg",
@@ -75,7 +65,6 @@
     },
     {
       "id": "ubx-vs-iota",
-      "author": "Max Gerasimenko",
       "timestamp": 1684248467,
       "title": "UBX vs IOTA: price dynamics ",
       "photo": "https://ubix.network/blog_images/ubxvsiota1.jpg",
@@ -83,7 +72,6 @@
     },
     {
       "id": "how-to-invest-in-crypto",
-      "author": "Max Gerasimenko",
       "timestamp": 1683565873,
       "title": "How to invest in crypto?",
       "photo": "https://ubix.network/blog_images/howtoinvest1.jpg",
@@ -91,7 +79,6 @@
     },
     {
       "id": "how-to-get-passive-income-in-crypto-world",
-      "author": "Max Gerasimenko",
       "timestamp": 1683304519,
       "title": "How to get passive income in crypto world",
       "photo": "https://ubix.network/blog_images/howtogetpassiveincome1.jpg",
@@ -99,7 +86,6 @@
     },
     {
       "id": "how-to-find-next-crypto-gem",
-      "author": "Max Gerasimenko",
       "timestamp": 1681917336,
       "title": "How to find the next crypto-gem? ",
       "photo": "https://ubix.network/blog_images/howtofind1.jpg",
@@ -107,7 +93,6 @@
     },
     {
       "id": "passive-income-with-crypto",
-      "author": "Max Gerasimenko",
       "timestamp": 1681310069,
       "title": "Staking crypto with UbiStake",
       "photo": "https://ubix.network/blog_images/passiveincome1.jpg",
@@ -115,7 +100,6 @@
     },
     {
       "id": "ubix-is-integrating-chatgpt",
-      "author": "Max Gerasimenko",
       "timestamp": 1681136518,
       "title": "UBIX is integrating ChatGPT",
       "photo": "https://ubix.network/blog_images/ubixchatgpt1.jpg",
@@ -123,7 +107,6 @@
     },
     {
       "id": "ubix-2023",
-      "author": "Max Gerasimenko",
       "timestamp": 1680803791,
       "title": "UBIX in 2023",
       "photo": "https://ubix.network/blog_images/ubix20231.jpg",
@@ -131,7 +114,6 @@
     },
     {
       "id": "how-liquidity-influences-your-investments",
-      "author": "Max Gerasimenko",
       "timestamp": 1680259156,
       "title": "How liquidity influences your investments?",
       "photo": "https://ubix.network/blog_images/howliquidityinfluences1.jpg",
@@ -139,7 +121,6 @@
     },
     {
       "id": "why-invest-in-ubix",
-      "author": "Max Gerasimenko",
       "timestamp": 1680188845,
       "title": "Why invest in UBIX?",
       "photo": "https://ubix.network/blog_images/whyinvest1.jpg",
@@ -147,7 +128,6 @@
     },
     {
       "id": "ubx-vs-eth",
-      "author": "Max Gerasimenko",
       "timestamp": 1679996026,
       "title": "UBX vs ETH",
       "photo": "https://ubix.network/blog_images/ubxvseth1.jpg",
@@ -155,7 +135,6 @@
     },
     {
       "id": "ubx-vs-btc",
-      "author": "Max Gerasimenko",
       "timestamp": 1679909626,
       "title": "UBX vs BTC",
       "photo": "https://ubix.network/blog_images/ubxvsbtc1.jpg",
@@ -163,7 +142,6 @@
     },
     {
       "id": "bear-market-and-ubix",
-      "author": "Max Gerasimenko",
       "timestamp": 1679650426,
       "title": "Bear market and UBIX",
       "photo": "https://ubix.network/blog_images/bearmarketubix1.jpg",
@@ -171,7 +149,6 @@
     },
     {
       "id": "ubix-worldwide-regulation",
-      "author": "Max Gerasimenko",
       "timestamp": 1679299278,
       "title": "UBIX's worldwide regulation",
       "photo": "https://ubix.network/blog_images/ubixregulation1.jpg",
@@ -179,7 +156,6 @@
     },
     {
       "id": "ubix-dag",
-      "author": "Max Gerasimenko",
       "timestamp": 1678809245,
       "title": "UBIX DAG",
       "photo": "https://ubix.network/blog_images/ubixdag1.jpg",
@@ -187,7 +163,6 @@
     },
     {
       "id": "top-dag-platforms",
-      "author": "Max Gerasimenko",
       "timestamp": 1674919051,
       "title": "Top DAG platforms",
       "photo": "https://ubix.network/blog_images/topdag1.png",
@@ -195,7 +170,6 @@
     },
     {
       "id": "ubx-use-cases",
-      "author": "Max Gerasimenko",
       "timestamp": 1674909231,
       "title": "Reasons to buy UBX coin",
       "photo": "https://ubix.network/blog_images/ubx1.png",
