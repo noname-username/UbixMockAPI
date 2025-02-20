@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "ubix-network-joins-bingx",
+      "author": "NewsBTC",
+      "timestamp": 1740077456,
+      "title": "UBIX Network Joins BingX",
+      "photo": "https://ubix.network/blog_images/joinsbingx1.webp",
+      "descr": "UBIX Network has reached a significant milestone by securing a listing on BingX, one of the fastest-growing cryptocurrency exchanges."
+    },
+    {
       "id": "revolutionary-dag-and-blockchain-hybrid-operating-nonstop",
       "author": "NewsBTC",
       "timestamp": 1728627068,
