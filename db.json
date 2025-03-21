@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "ubix-network-ama-q2-2025",
+      "timestamp": 1742586348,
+      "title": "Ubix.Network AMA Q2 2025",
+      "photo": "https://ubix.network/blog_images/whyinvest1.jpg",
+      "descr": "Read the transcription of our latest AMA"
+    },
+    {
       "id": "ubix-network-joins-bingx",
       "timestamp": 1740077456,
       "title": "UBIX Network Joins BingX",
