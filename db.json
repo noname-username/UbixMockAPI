@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "introducing-sign-it-now",
+      "author": "Max Gerasimenko",
+      "timestamp": 1745261385,
+      "title": "Introducing SignItNow by UBIX Network — A New Era of Digital Trust",
+      "photo": "https://ubix.network/blog_images/signitnow1.jpg",
+      "descr": "UBIX Network is proud to unveil SignItNow, a secure blockchain-based document signing platform built for the Web3 age."
+    },
+    {
       "id": "ubix-network-ama-q2-2025",
       "timestamp": 1742586348,
       "title": "Ubix.Network AMA Q2 2025",
@@ -111,13 +119,6 @@
       "title": "UBIX is integrating ChatGPT",
       "photo": "https://ubix.network/blog_images/ubixchatgpt1.jpg",
       "descr": "UBIX, as one of the most innovative decentralized platforms, is probably the first DLT to benefit from ChatGPT possibilities."
-    },
-    {
-      "id": "ubix-2023",
-      "timestamp": 1680803791,
-      "title": "UBIX in 2023",
-      "photo": "https://ubix.network/blog_images/ubix20231.jpg",
-      "descr": "The start of the year has been very productive for UBIX. Several key objectives planned for the entire year have already been achieved."
     },
     {
       "id": "how-liquidity-influences-your-investments",
