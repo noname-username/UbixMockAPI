@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "ubix-launchpad",
+      "author": "Max Gerasimenko",
+      "timestamp": 1745435410,
+      "title": "UBIX Launchpad: The Gateway to Fair IEOs",
+      "photo": "https://ubix.network/blog_images/launchpad1.jpg",
+      "descr": "UBIX Network is proud to present its own Launchpad platform for IEOs (Initial Exchange Offerings) - a fast, fair, and transparent way..."
+    },
+    {
       "id": "introducing-sign-it-now",
       "author": "Max Gerasimenko",
       "timestamp": 1745261385,
@@ -126,13 +134,6 @@
       "title": "How liquidity influences your investments?",
       "photo": "https://ubix.network/blog_images/howliquidityinfluences1.jpg",
       "descr": "Utility oriented blockchain projects, such as UBIX, consider their goal to make this world more convenient and secure."
-    },
-    {
-      "id": "why-invest-in-ubix",
-      "timestamp": 1680188845,
-      "title": "Why invest in UBIX?",
-      "photo": "https://ubix.network/blog_images/whyinvest1.jpg",
-      "descr": "If you don’t have UBX coins in your investment portfolio yet, it’s time you read this article carefully."
     },
     {
       "id": "ubx-vs-eth",
