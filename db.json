@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "why-ubix-is-a-hidden-gem",
+      "timestamp": 1753813987,
+      "title": "Why UBIX Is a Hidden Gem",
+      "photo": "https://ubix.network/blog_images/ubixhiddengem1.jpg",
+      "descr": "UBIX Network can be described as a hidden gem in the crypto space - an under-the-radar project with strong fundamentals and big potential..."
+    },
+    {
       "id": "ubix-vs-l-0-projects-comparison",
       "timestamp": 1753455196,
       "title": "UBIX vs L-0 Projects Comparison",
@@ -174,13 +181,6 @@
       "title": "UBIX DAG",
       "photo": "https://ubix.network/blog_images/ubixdag1.jpg",
       "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. At its core, DAG is a registry without blocks, while UBIX is much more than that."
-    },
-    {
-      "id": "top-dag-platforms",
-      "timestamp": 1674919051,
-      "title": "Top DAG platforms",
-      "photo": "https://ubix.network/blog_images/topdag1.png",
-      "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. Many mistakenly believe that DAG is a type of blockchain or a kind of new consensus."
     }
   ]
 }
