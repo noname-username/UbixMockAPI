@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "ubx-the-web3-on-ramp",
+      "timestamp": 1755202738,
+      "title": "UBX: The Web3 On-Ramp",
+      "photo": "https://ubix.network/blog_images/web3onramp1.jpg",
+      "descr": "The rise of Web3 has promised users more control, digital ownership, and transparent systems. It envisions a world where individuals, not corporations, own their data, assets, and identity..."
+    },
+    {
       "id": "why-ubix-is-a-hidden-gem",
       "timestamp": 1753813987,
       "title": "Why UBIX Is a Hidden Gem",
@@ -174,13 +181,6 @@
       "title": "UBIX's worldwide regulation",
       "photo": "https://ubix.network/blog_images/ubixregulation1.jpg",
       "descr": "UBIX has always been an active advocate of all-encompassing regulation of distributed ledger technology. From inception, our conviction was that clear rules would not hamper the adoption of the technology but..."
-    },
-    {
-      "id": "ubix-dag",
-      "timestamp": 1678809245,
-      "title": "UBIX DAG",
-      "photo": "https://ubix.network/blog_images/ubixdag1.jpg",
-      "descr": "DAG is a type of distributed ledger technology that differs from blockchain in the structure of records and asynchrony. At its core, DAG is a registry without blocks, while UBIX is much more than that."
     }
   ]
 }
