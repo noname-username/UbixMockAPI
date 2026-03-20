@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "how-legaltech-and-ai-are-transforming-blockchain",
+      "timestamp": 1774017145,
+      "title": "Ubix.Network: How LegalTech and AI Are Transforming Blockchain",
+      "photo": "https://ubix.network/blog_images/whyinvest1.jpg",
+      "descr": "The modern evolution of blockchain technologies is characterized by a shift from narrowly focused cryptocurrency solutions to comprehensive digital ecosystems..."
+    },
+    {
       "id": "ubx-the-web3-on-ramp",
       "timestamp": 1755202738,
       "title": "UBX: The Web3 On-Ramp",
@@ -174,13 +181,6 @@
       "title": "Bear market and UBIX",
       "photo": "https://ubix.network/blog_images/bearmarketubix1.jpg",
       "descr": "There is no need for industry experts to forecast that the crypto market will remain subdued throughout 2023."
-    },
-    {
-      "id": "ubix-worldwide-regulation",
-      "timestamp": 1679299278,
-      "title": "UBIX's worldwide regulation",
-      "photo": "https://ubix.network/blog_images/ubixregulation1.jpg",
-      "descr": "UBIX has always been an active advocate of all-encompassing regulation of distributed ledger technology. From inception, our conviction was that clear rules would not hamper the adoption of the technology but..."
     }
   ]
 }
