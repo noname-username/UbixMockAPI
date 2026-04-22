@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "a-revolution-in-blockchain-interoperability",
+      "timestamp": 1776837513,
+      "title": "Ubix.Network: A Revolution in Blockchain Interoperability",
+      "photo": "https://ubix.network/blog_images/blockchaininteroperability1.jpg",
+      "descr": "Blockchain technology is transforming industries from finance and healthcare to art and logistics. However, one of the biggest challenges faced by developers and users is interoperability..."
+    },
+    {
       "id": "how-legaltech-and-ai-are-transforming-blockchain",
       "timestamp": 1774017145,
       "title": "Ubix.Network: How LegalTech and AI Are Transforming Blockchain",
@@ -174,13 +181,6 @@
       "title": "UBX vs BTC",
       "photo": "https://ubix.network/blog_images/ubxvsbtc1.jpg",
       "descr": "In today’s article we will talk about two popular coins: BTC - the first crypto by both, establishment and market cap, and UBX - the coin of UBIX Network, a next-gen hybrid DAG offering dApps with high utility value."
-    },
-    {
-      "id": "bear-market-and-ubix",
-      "timestamp": 1679650426,
-      "title": "Bear market and UBIX",
-      "photo": "https://ubix.network/blog_images/bearmarketubix1.jpg",
-      "descr": "There is no need for industry experts to forecast that the crypto market will remain subdued throughout 2023."
     }
   ]
 }
