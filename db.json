@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "changing-the-approach-to-decentralized-apps",
+      "timestamp": 1777391432,
+      "title": "How Ubix.Network Is Changing the Approach to Decentralized Applications",
+      "photo": "https://ubix.network/blog_images/changingtheapproach1.jpg",
+      "descr": "Since the emergence of blockchain technology, decentralized applications (dApps) have become a key component of blockchain ecosystems. However..."
+    },
+    {
       "id": "a-revolution-in-blockchain-interoperability",
       "timestamp": 1776837513,
       "title": "Ubix.Network: A Revolution in Blockchain Interoperability",
@@ -174,13 +181,6 @@
       "title": "UBX vs ETH",
       "photo": "https://ubix.network/blog_images/ubxvseth1.jpg",
       "descr": "In today’s article we will continue our series of analyses by comparing UBX with the most popular altcoin (Ethereum)."
-    },
-    {
-      "id": "ubx-vs-btc",
-      "timestamp": 1679909626,
-      "title": "UBX vs BTC",
-      "photo": "https://ubix.network/blog_images/ubxvsbtc1.jpg",
-      "descr": "In today’s article we will talk about two popular coins: BTC - the first crypto by both, establishment and market cap, and UBX - the coin of UBIX Network, a next-gen hybrid DAG offering dApps with high utility value."
     }
   ]
 }
